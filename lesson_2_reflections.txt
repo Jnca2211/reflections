@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+To define a smaller grouping of files. Create a remote repository instead of using a global repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area sets aside the changes to a file to be commited  before all the components/files are complete and ready to commit? 
