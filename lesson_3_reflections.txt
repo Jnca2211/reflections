@@ -21,3 +21,7 @@ What is the benefit of having a copy of the last known state of the remote store
 Don't have to deal with manually editing the file if there are conflict changes that aren't auto.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be less steps involved without using GitHub but harder to work on projects with multiple people or devices.
+
